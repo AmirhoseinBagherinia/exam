@@ -1,0 +1,39 @@
+body{
+   background-image: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163)); 
+}
+div{
+    width: 400px;
+    height: 500px;
+    background-color: rgba(35, 28, 45, 0.899);
+    margin: 200px 500px 500px 750px;
+    border-radius: 20px;
+}
+h1{
+    color: aliceblue;
+    padding-top: 90px;
+    padding-left: 90px;
+}
+label{
+    padding-left: 20px;
+    font-size: 30px;
+    color: white;
+}
+input{
+    border-radius: 8px;
+    height: 30px;
+    width: 200px;
+    margin-left:20px;
+    background-color: rgba(170, 157, 255, 0.222);
+}
+button{
+    background-color: rgba(170, 157, 255, 1);
+    transition: 0.3;
+}
+pre{
+    color: white;
+    font-size: 19px;
+}
+button:hover{
+    background-color: rgb(196, 187, 252);
+
+}
